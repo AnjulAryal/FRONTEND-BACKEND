@@ -54,3 +54,10 @@ button:hover {
     border-radius: 8px;
     min-height: 50px;
 }
+input{
+    max-width: 100px;
+    height: 20px;
+}
+.input-fields{
+    display: flex;
+}
